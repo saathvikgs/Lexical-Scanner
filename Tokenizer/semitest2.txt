@@ -1,0 +1,3 @@
+
+
+std::string Str = "THIS IS A STRING";

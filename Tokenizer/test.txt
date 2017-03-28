@@ -1,0 +1,14 @@
+abCDed0_Z123
+_abcd_
+int _var;
+_12_3
+. , ? !
+//This is a C++ comment
+/* This is a
+multiline 
+comment */
+"This is a quoted string enclosed in \"\""
+'This is a quoted string enclosed in \'\''
+<>[](){}:=+-*\n$
+<<>>::++--==+=-=*=/=$$
+if(a == b)

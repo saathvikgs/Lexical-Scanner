@@ -1,0 +1,51 @@
+#ifndef SEMIEXPRESSION_H
+#define SEMIEXPRESSION_H
+#include <exception>
+#include "SemiExp.h"
+#include "../Tokenizer/Tokenizer.h"
+#define a
+
+class Toker
+{
+	private:
+		std::string someString;
+	public:
+		Toker();
+		Toker& operator=(const Toker&) = delete;
+		~Toker();
+		void toLower();
+};
+void main()
+{
+	int a, b;
+	std::cout << "The value of a and b"<< a << " " << b;
+}
+for(int i; i < 10; i++)
+{
+	st1;
+	st2;
+}
+for(int i = 0; i < a.len(); i++)
+{
+	st1;
+	st2;
+}
+for(auto tok : tokens)
+{
+	st1;
+	st2;
+}
+for(int i = 0; i < a.len(); i++)
+	st1; 
+if(a == b)
+	st1;
+if(a == len())
+	st1;
+while(!(isalpha))
+{
+	st1;
+	st2; 
+}
+if(isalpha()) return true;
+next;
+#endif
